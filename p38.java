@@ -18,7 +18,7 @@ public class p38 {
         public static final String ascii_pieces = ".PNRQpnrqO";
 
         // unicode pieces
-        public static String[] unicode_pieces = {"♟", "♟","♟","♟", "♟","♟", "♟","♟", "♟","♟", "♟","♟", "♟","♟", "♟","♟","♟", "♟","♟", "♟","♟", "♟","♟", "♟","♟", "♟",};
+        public static String[] unicode_pieces = {"A-p1", "A-p2","A-p3","A-p4", "A-p5", "B-p1","B-p2", "B-p3","B-p4", "B-p5",".", ".",".", ".",".", ".",".", ".",".", ".",".",".", ".",".", ".","."};
 
         // chess board representation
         public static int[] board = {r, n, q, n, r, o, o, o, o, o,
